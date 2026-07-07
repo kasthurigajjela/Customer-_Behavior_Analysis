@@ -10,19 +10,28 @@ purchasing trends and customer segments, and generated business insights.
 • Dashboard Development (Power BI): Built an interactive dashboard with KPI cards, charts,
 customer analysis, and slicers.
 • Report & Presentation: Prepared a detailed report and created a presentation using Gamma.
+
 Tools & Technologies
 Python • Pandas • NumPy • Matplotlib • Seaborn • PostgreSQL • SQL • Power BI • Gamma •
 Microsoft Word
+
 Project Structure
+
 Customer-Behavior-Analysis/
-nnn Dataset/
-nnn Python/
-nnn SQL/
-nnn PowerBI/
-nnn Report/
-nnn Presentation/
-nnn Images/
-nnn README.md
+|
+├── Dataset/
+├── Python/
+├── SQL/
+├── PowerBI/
+├── Report/
+│   └── Customer_Behavior_Report.pdf
+├── Presentation/
+│   └── Customer_Behavior_Presentation.pdf
+├── Images/
+│   └── Dashboard.png
+├── README.md      ← This is the file GitHub displays
+└── LICENSE
+
 Dashboard Preview
 Key Skills Demonstrated
 Data Cleaning • Exploratory Data Analysis (EDA) • Python • PostgreSQL • SQL • Power BI • Data
