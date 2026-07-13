@@ -12,7 +12,7 @@ customer analysis, and slicers.
 • Report & Presentation: Prepared a detailed report and created a presentation using Gamma.
 
 Tools & Technologies
-Python • Pandas • NumPy • Matplotlib • Seaborn • PostgreSQL • SQL • Power BI • Gamma •
+Python • Pandas • NumPy  • PostgreSQL • SQL • Power BI • Gamma •
 Microsoft Word
 
 Project Structure
